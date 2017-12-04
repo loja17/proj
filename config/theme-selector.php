@@ -27,6 +27,16 @@ return [
             ]
         ],
 
+        "separator011" => "------------------------------------------------",
+
+        "vgrid"      => [
+            "title"      => "vgrid vertikalt grid",
+            "class"      => "",
+            "stylesheets" => [
+                "css/layout.min.css"
+            ]
+        ],
+
         "separator1" => "------------------------------------------------",
 
         "light"     =>  [

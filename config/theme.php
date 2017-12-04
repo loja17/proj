@@ -83,6 +83,15 @@ return [
         ],
         [
             "region" => "footer",
+            "template" => "default/block",
+            "data" => [
+                "class" => "site-byline",
+                "contentRoute" => "block/byline",
+            ],
+            "sort" => 1
+        ],
+        [
+            "region" => "footer",
             "template" => "default/columns",
             "data" => [
                 "class"  => "footer-column",
@@ -99,7 +108,7 @@ return [
                     ]
                 ]
             ],
-            "sort" => 1
+            "sort" => 2
         ],
         [
             "region" => "footer",
@@ -108,7 +117,7 @@ return [
                 "class" => "site-footer",
                 "contentRoute" => "block/footer",
             ],
-            "sort" => 2
+            "sort" => 3
         ],
     ],
 ];

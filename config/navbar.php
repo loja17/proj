@@ -37,15 +37,32 @@ return [
                 "text"  => t("Grid"),
                 "url"   => $this->di->get("url")->create("grid"),
                 "title" => t("Vertikalt grid"),
-                "mark-if-parent" => true,
             ],
 
             "typography" => [
-                "text"  => t("Typography"),
+                "text"  => t("Typografi"),
                 "url"   => $this->di->get("url")->create("typography"),
                 "title" => t("Typografisk layout")
             ],
 
+            "analysis" => [
+                "text"  => t("Analys"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("Analys"),
+                "mark-if-parent" => true,
+            ],
+
+            "theme" => [
+                "text"  => t("Teman"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("Mina teman")
+            ],
+
+            "theme-selector" => [
+                "text"  => t("Temaväljare"),
+                "url"   => $this->di->get("url")->create("theme-selector"),
+                "title" => t("Välj tema"),
+            ],
         ],
     ],
 
@@ -86,13 +103,31 @@ return [
                 "text"  => t("Grid"),
                 "url"   => $this->di->get("url")->create("grid"),
                 "title" => t("Vertikalt grid"),
-                "mark-if-parent" => true,
             ],
 
             "typography" => [
-                "text"  => t("Typography"),
+                "text"  => t("Typografi"),
                 "url"   => $this->di->get("url")->create("typography"),
                 "title" => t("Typografisk layout")
+            ],
+
+            "analysis" => [
+                "text"  => t("Analys"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("Analys"),
+                "mark-if-parent" => true,
+            ],
+
+            "theme" => [
+                "text"  => t("Teman"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("Mina teman")
+            ],
+
+            "theme-selector" => [
+                "text"  => t("Temaväljare"),
+                "url"   => $this->di->get("url")->create("theme-selector"),
+                "title" => t("Välj tema"),
             ],
         ],
     ],

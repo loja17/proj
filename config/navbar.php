@@ -63,6 +63,19 @@ return [
                 "url"   => $this->di->get("url")->create("theme-selector"),
                 "title" => t("Välj tema"),
             ],
+
+            "blogg" => [
+                "text"  => t("Blogg"),
+                "url"   => $this->di->get("url")->create("blogg"),
+                "title" => t("Blogg"),
+                "mark-if-parent" => true,
+            ],
+
+            "images" => [
+                "text"  => t("Bilder"),
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => t("Bilder"),
+            ],
         ],
     ],
 
@@ -128,6 +141,12 @@ return [
                 "text"  => t("Temaväljare"),
                 "url"   => $this->di->get("url")->create("theme-selector"),
                 "title" => t("Välj tema"),
+            ],
+
+            "images" => [
+                "text"  => t("Bilder"),
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => t("Bilder"),
             ],
         ],
     ],

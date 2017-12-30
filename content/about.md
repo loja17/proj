@@ -1,7 +1,7 @@
 Om
 ==============================================
 
-<img src="img/IMG_7583.JPG" alt="Louise" style="padding: 2px;margin: 2px;bottom: 2px;height: 220px;width: 220px;position: relative;float: right;">
+<img src="img/IMG_7583.JPG" alt="Louise" style="height: 220px;width: 220px;position: relative;float: right;">
 
 Denna sidan är en del av kursen [Teknisk webbdesign och användbarhet](http://dbwebb.se/design).
 

@@ -27,12 +27,6 @@ return [
                 "title" => t("Om denna webbsida")
             ],
 
-            "test" => [
-                "text"  => t("Test"),
-                "url"   => $this->di->get("url")->create("test"),
-                "title" => t("Testsida")
-            ],
-
             "grid" => [
                 "text"  => t("Grid"),
                 "url"   => $this->di->get("url")->create("grid"),
@@ -76,6 +70,18 @@ return [
                 "url"   => $this->di->get("url")->create("images"),
                 "title" => t("Bilder"),
             ],
+
+            "design-principle" => [
+                "text"  => t("D-princip"),
+                "url"   => $this->di->get("url")->create("design-principle"),
+                "title" => t("Designprincip"),
+            ],
+
+            "design-element" => [
+                "text"  => t("D-element"),
+                "url"   => $this->di->get("url")->create("design-element"),
+                "title" => t("Designelement"),
+            ],
         ],
     ],
 
@@ -104,12 +110,6 @@ return [
                 "text"  => t("Om"),
                 "url"   => $this->di->get("url")->create("about"),
                 "title" => t("Om denna webbsida")
-            ],
-
-            "test" => [
-                "text"  => t("Test"),
-                "url"   => $this->di->get("url")->create("test"),
-                "title" => t("Testsida")
             ],
 
             "grid" => [
@@ -147,6 +147,18 @@ return [
                 "text"  => t("Bilder"),
                 "url"   => $this->di->get("url")->create("images"),
                 "title" => t("Bilder"),
+            ],
+
+            "design-principle" => [
+                "text"  => t("Designprincip"),
+                "url"   => $this->di->get("url")->create("design-principle"),
+                "title" => t("Designprincip"),
+            ],
+
+            "design-element" => [
+                "text"  => t("Designelement"),
+                "url"   => $this->di->get("url")->create("design-element"),
+                "title" => t("Designelement"),
             ],
         ],
     ],

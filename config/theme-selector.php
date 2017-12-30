@@ -78,5 +78,49 @@ return [
                 "css/fun.min.less"
             ]
         ],
+
+        "separator3" => "------------------------------------------------",
+
+        "princip1"       => [
+            "title"      => "Designprincip 1: Kontrast och framing",
+            "class"      => "princip1",
+            "stylesheets" => [
+                "css/princip1.min.css"
+            ]
+        ],
+
+        "princip2"       => [
+            "title"      => "Designprincip 2: Repetition och rörelse",
+            "class"      => "princip2",
+            "stylesheets" => [
+                "css/princip2.min.css"
+            ]
+        ],
+
+        "separator4" => "------------------------------------------------",
+
+        "element1"       => [
+            "title"      => "Designelement 1: Foto och space",
+            "class"      => "element1",
+            "stylesheets" => [
+                "css/element1.min.css"
+            ]
+        ],
+
+        "element2"       => [
+            "title"      => "Designelement 2: Färg, gradients och borders",
+            "class"      => "element2",
+            "stylesheets" => [
+                "css/element2.min.css"
+            ]
+        ],
+
+        "element3"       => [
+            "title"      => "Designelement 3: Textur",
+            "class"      => "element3",
+            "stylesheets" => [
+                "css/element3.min.css"
+            ]
+        ],
     ]
 ];

@@ -21,7 +21,7 @@ views:
                 items: 10
 
     blog-toc:
-        region: sidebar-right
+        region: sidebar-left
         template: default/blog-toc
         sort: 2
         data:
@@ -30,7 +30,7 @@ views:
                 view: blog-list
 
 ...
-Min bildblogg
+Blogg
 ===========================
 
-Dagens foto presenteras med en kort beskrivning om hur det gick till när bilden togs.
+Följ med Art Ist i det dagliga livet.

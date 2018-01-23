@@ -1,4 +1,4 @@
-Copyright &copy; 2017 Louise Jakobsson (louise_jakobsson@hotmail.com)
+Copyright &copy; 2017 Art Ist (art@ist.se)
 
 * [License](license)
 * [Cookies](cookies)

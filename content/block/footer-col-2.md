@@ -1,4 +1,4 @@
-####Download
+####Kontakt
+Bokningar skrev via manager [Svempa Svempasson](svempa@ist.se).
 
-* [GitHub](https://github.com/canax/anax-flat)
-* [Packagist](https://packagist.org/packages/mos/anax-flat)
+Kontakta Art Ist [direkt](art@ist.se). 

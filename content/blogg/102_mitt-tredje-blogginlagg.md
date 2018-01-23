@@ -1,22 +1,18 @@
 ---
-author: loja17
+author: ArtIst
 published: "2017-12-16"
 category:
     - dagens bild
 ...
-Från min balkong
+Medverkan i P4 Göteborg
 ==================================
 
-[FIGURE src="image/blogg/kviberg.jpg?w=200&h=150&a=20,20,20,30&cf" class="right"]
+[FIGURE src="image/blogg/3.jpg?w=200&r=-90&h=150&a=20,20,20,30&cf" class="right"]
 
-Idag blev det en bild från mitt fönster. Bilden togs med Samsung s8.
+Igår medverkade jag i P4 Göteborg.
 
 <!--more-->
 
-[FIGURE src="image/blogg/kviberg.jpg?w=600" caption="Originalbild"] 
+Spelade min senaste låt!
 
-[FIGURE src="image/blogg/kviberg.jpg?w=600&a=5,20,30,20&f=brightness,-50" caption="Beskuren, brightness: -50"] 
-
-[FIGURE src="image/blogg/kviberg.jpg?w=600&convolve=draw" caption="Draw"]
-
-[FIGURE src="image/blogg/kviberg.jpg?w=600&a=30,0,20,0&f=grayscale&f0=brightness,-10&f1=contrast,-20&f2=colorize,120,60,0,0&sharpen" caption="Beskuren, sepia och sharpen"]
+[FIGURE src="image/blogg/3.jpg?w=600&r=-90"] 

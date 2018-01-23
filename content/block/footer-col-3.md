@@ -1,4 +1,3 @@
-####Troubleshoot
+####Lyssna
 
-* [Gitter Chat](https://gitter.im/mosbth/design)
-* [GitHub Issues](https://github.com/canax/anax-flat/issues)
+[Spotify](https://github.com/canax/anax-flat)

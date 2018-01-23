@@ -1,5 +1,5 @@
-####Anax Flat
+####Följ
 
-Att bygga webbsidor baserade på markup och konfiguration i YAML.
-
-[Kom igång](http://dbwebb.se/kunskap/bygg-me-sida-med-anax-flat).
+* [Instagram](https://instagram.com)
+* [Facebook](https://facebook.com)
+* [Youtube](https://youtube.com)

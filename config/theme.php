@@ -18,7 +18,7 @@ return [
             //"lang"          => "en",
             "lang"          => "sv",
             "charset"       => "utf-8",
-            "title_append"  => " | Anax Flat",
+            "title_append"  => " | Art Ist",
             "favicon"       => "img/favicon/favicon_256x256.png",
 
             // Style and stylesheets
@@ -42,22 +42,13 @@ return [
      * Add default views to always include.
      */
     "views" => [
-        [
-            "region" => "header",
-            "template" => "default/image",
-            "data" => [
-                "class" => "logo-1",
-                "src" => "img/favicon/favicon_128x128.png",
-                "alt" => "Logo",
-            ],
-            "sort" => 1
-        ],
+
         [
             "region" => "header",
             "template" => "default/header",
             "data" => [
                 "homeLink"      => "",
-                "siteLogoText"  => "Anax Flat",
+                "siteLogoText"  => "Art Ist",
                 "siteLogoTextIcon" => "img/favicon/favicon_40x40.png",
                 "siteLogoTextIconAlt" => "Small logo",
                 "siteLogo"      => null, //"img/anax.png",
@@ -81,15 +72,7 @@ return [
             "data" => [],
             "sort" => 1
         ],
-        [
-            "region" => "footer",
-            "template" => "default/block",
-            "data" => [
-                "class" => "site-byline",
-                "contentRoute" => "block/byline",
-            ],
-            "sort" => 1
-        ],
+
         [
             "region" => "footer",
             "template" => "default/columns",

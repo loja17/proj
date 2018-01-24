@@ -1,6 +1,0 @@
----
-titleBreadcrumb: Analys
-...
-
-Index
-===============================
